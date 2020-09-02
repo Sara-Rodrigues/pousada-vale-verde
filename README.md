@@ -37,7 +37,7 @@ Entrega NAC NodeJS
 ----------
 **Home:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/home.PNG?raw=true)
+![Screenshot](Home.jpg)
 
 ----------
 
