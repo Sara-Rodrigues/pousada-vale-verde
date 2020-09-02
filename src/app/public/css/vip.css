@@ -1,0 +1,51 @@
+#quartos-vip {
+  max-width: 100%;
+  height: auto;
+  padding: 80px;
+}
+
+#quartos-vip h1 {
+  text-align: center;
+}
+
+
+#quartos-vip h2 {
+  padding: 10px 20px;
+}
+
+#quartos-vip img { 
+  width: 100%;
+}
+
+.apartamento-vip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.apto-vip {
+  border: 2px solid #333;
+  margin: 15px;
+  box-shadow: 5px 5px 5px #1a1a1a;
+  width: 450px;
+}
+
+.description-apto {
+  padding: 5px 20px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content a {
+  padding: 10px 20px;
+  margin: 10px 20px;
+  background: #1a1a1a;
+  color: #f1f1f1;
+  text-decoration: none;
+  text-align: center;
+}

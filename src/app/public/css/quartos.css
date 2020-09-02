@@ -1,0 +1,47 @@
+
+#quartos {
+  max-width: 1300px;
+  height: auto;
+  padding: 80px;
+}
+
+#quartos h1 {
+  text-align: center;
+}
+
+#quartos h2{
+  padding: 10px 20px 0 20px;
+}
+
+#quartos img { 
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.apartamento {
+  border: 2px solid #333;
+  margin: 20px;
+  box-shadow: 5px 5px 5px #1a1a1a;
+  width: 450px;
+}
+
+.vip {
+  border: 2px solid #333;
+  margin: 15px;
+  box-shadow: 5px 5px 5px #1a1a1a;
+  width: 450px;
+}
+
+.content a {
+  padding: 10px 20px;
+  margin: 10px 20px;
+  background: #1a1a1a;
+  color: #f1f1f1;
+  text-decoration: none;
+  text-align: center;
+}

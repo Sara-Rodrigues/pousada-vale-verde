@@ -49,6 +49,7 @@ class QuartosDao {
         return new Promise((resolve, reject) => {
             this._db.run(`
                 INSERT INTO quarto (
+                    id_quarto
                     tipo_quarto,
                     descricao_quarto,
                     valor_quarto

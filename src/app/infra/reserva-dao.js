@@ -32,14 +32,15 @@ class ReservasDao {
         });
     }
 
-    save(reserva) {
+
+    add(reserva) {
         return new Promise((resolve, reject) => {
             this._db.run(`
                 INSERT INTO reserva(
                     id_quarto,
                     dt_inicio,
                     dt_saida
-                )
+                )VALUES (?, ?, ?)
             `,
                 [
                     reserva.id_quarto,
