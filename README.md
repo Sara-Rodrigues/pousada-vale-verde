@@ -73,9 +73,9 @@ Entrega NAC NodeJS
 
 ### Alunos:
 
-`Alexandre`
-`Ana Carolina`
-`Jonatas Alves`
-`Karoline Santato`
-`Sara Rodrigues`
-`Victoria Maciel`
+`Alexandre Evangelista do Nascimento - RM86499`
+`Ana Carolina Likitini dos Santos - RM83872`
+`Jonatas Alves de Oliveira - RM76593`
+`Karoline Santato Cavanha - RM83830`
+`Sara Rodrigues de Souza - RM83967`
+`Victoria Calixto Maciel - RM82359`
