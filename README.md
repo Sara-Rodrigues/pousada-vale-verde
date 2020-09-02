@@ -43,31 +43,31 @@ Entrega NAC NodeJS
 
 **Quartos:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/quarto.PNG?raw=true)
+![Screenshot](Quartos.jpg)
 
 ----------
 
 **Apartamentos:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/quarto.PNG?raw=true)
+![Screenshot](Apartamentos.jpg)
 
 ----------
 
 **Vip:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/quarto.PNG?raw=true)
+![Screenshot](VIP.jpg)
 
 ----------
 
 **Reserva:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/reserva.PNG?raw=true)
+![Screenshot](Reserva.jpg)
 
 ----------
 
 **Contato:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/contato.PNG?raw=true)
+![Screenshot](Contato.jpg)
 
 ----------
 
