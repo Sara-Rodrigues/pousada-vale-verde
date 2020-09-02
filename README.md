@@ -37,37 +37,37 @@ Entrega NAC NodeJS
 ----------
 **Home:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/blob/master/home.PNG?raw=true)
+![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/home.PNG?raw=true)
 
 ----------
 
 **Quartos:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/blob/master/quarto.PNG?raw=true)
+![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/quarto.PNG?raw=true)
 
 ----------
 
 **Apartamentos:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/blob/master/quarto.PNG?raw=true)
+![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/quarto.PNG?raw=true)
 
 ----------
 
 **Vip:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/blob/master/quarto.PNG?raw=true)
+![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/quarto.PNG?raw=true)
 
 ----------
 
 **Reserva:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/blob/master/reserva.PNG?raw=true)
+![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/reserva.PNG?raw=true)
 
 ----------
 
 **Contato:**
 
-![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/blob/master/contato.PNG?raw=true)
+![alt text](https://github.com/Sara-Rodrigues/pousada-vale-verde/master/contato.PNG?raw=true)
 
 ----------
 
